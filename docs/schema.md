@@ -35,3 +35,7 @@
   - user_id        integer not null
   - photo_id       integer not null
   - body           string  not null
+
+
+
+ webpack react react-dom react-router redux react-redux babel-core babel-loader babel-preset-react babel-preset-es2015
